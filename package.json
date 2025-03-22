@@ -1,0 +1,21 @@
+/*npm init - comando no powershell para criar esse arquivo*/ 
+{
+  "name": "calculadora-imc",
+  "version": "1.0.0",
+  "description": "calculadora de imc",
+  "main": ".js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnicaGabrielli/JS---orienta-o-a-objetos-e-mvc.git"
+  },
+  "author": "Anica",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AnicaGabrielli/JS---orienta-o-a-objetos-e-mvc/issues"
+  },
+  "homepage": "https://github.com/AnicaGabrielli/JS---orienta-o-a-objetos-e-mvc#readme"
+}
